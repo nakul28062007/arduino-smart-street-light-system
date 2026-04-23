@@ -62,7 +62,7 @@ This project implements a two-stage intelligent street light controller using an
 LinkedIn demo video:
 
 ```markdown
-[Watch Demo on LinkedIn](https://www.linkedin.com/posts/nakulvasudev_arduino-embeddedsystems-iot-activity-7453094730017558528-Iric?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4fPBQBxRsU1KFz2klCBKo9-C0-QrIRwnQ)
+[Watch Demo on LinkedIn]: https://www.linkedin.com/posts/nakulvasudev_arduino-embeddedsystems-iot-activity-7453094730017558528-Iric?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4fPBQBxRsU1KFz2klCBKo9-C0-QrIRwnQ
 ```
 
 ---
